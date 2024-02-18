@@ -3,11 +3,11 @@ const dotenv = require("dotenv");
 dotenv.config();
 const mongoose = require("mongoose");
 const cors = require("cors");
-const userRoute = require("../backend/routes/userRoute");
-const adminRoute = require("../backend/routes/adminRoute");
-const productRoute = require("../backend/routes/productRoute");
-const billRoute = require("../backend/routes/billRoute");
-const homeRoute = require("../backend/routes/homeRoute");
+const userRoute = require("./routes/userRoute");
+const adminRoute = require("./routes/adminRoute");
+const productRoute = require("./routes/productRoute");
+const billRoute = require("./routes/billRoute");
+const homeRoute = require("./routes/homeRoute");
 
 const app = express();
 const PORT = process.env.PORT || 3000;
