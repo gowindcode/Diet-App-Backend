@@ -1,0 +1,28 @@
+[{
+        "firstName": "Siva",
+        "lastName": "kumar",
+        "email": "sivakumar@gmail.com",
+        "password":"siva@123",
+        "mobile": 9080706050,
+        "address": "2, lal salar street, New Delhi-100 101",
+        "dietFor": "Reduce body weight"
+},
+{
+    "firstName": "Astro",
+    "lastName": "kenn",
+    "email": "astrokenn19@gmail.com",
+    "password":"aken19@123",
+    "mobile": 8090607040,
+    "address": "85, Mandhir bajar cross cut, New Delhi-100 120",
+    "dietFor": "Increase body weight and muscles"
+},
+{
+    "firstName": "Vikey",
+    "lastName": "das",
+    "email": "vikeydas26@gmail.com",
+    "password":"vikeyd26@123",
+    "mobile": 9090608880,
+    "address": "19, Market main street, New Delhi-100 133",
+    "dietFor": "Increase body weight and muscles"
+}
+]

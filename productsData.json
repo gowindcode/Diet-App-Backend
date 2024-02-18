@@ -1,0 +1,243 @@
+[
+    {
+        "productId": 1,
+        "productName": "Obesigo BLCD Weight Management Plan 350gm (Vanilla Flavor, 7 Sachets of 50gm)",
+        "image": "https://m.media-amazon.com/images/I/71AluKUU0PL._SX679_.jpg",
+        "description":"High protein content (24g per serving) and No added Sugar. It helps to boost metabolism, builds essential muscles and is effective for weight loss.",
+        "price": "936",
+        "offerPrice": "800",
+        "rating": 4.5,
+        "stockQty": "1,200"
+    },
+    {
+        "productId": 2,
+        "productName": "Obesigo BLCD Obesigo Meal Replacement Weight Loss And Weight Management Plan (Chocolate Flavor) - 350Gm (7 Sachets Of 50G Each)",
+        "image": "https://m.media-amazon.com/images/I/7142FbPxzBL._SX679_PIbundle-7,TopRight,0,0_AA679SH20_.jpg",
+        "description":"High protein content (24g per serving) and No added Sugar. It helps to boost metabolism, builds essential muscles and is effective for weight loss.",
+        "price": "936",
+        "offerPrice": "820",
+        "rating": 4.7,
+        "stockQty": "600"
+    },
+    {
+        "productId": 3,
+        "productName": "Obesigo BLCD Weight Management Plan 7 Sachets of 50 g each of Premium Mango shake (350gm)",
+        "image": "https://m.media-amazon.com/images/I/71pKyAeKOcL._SX679_.jpg",
+        "description":"High protein content (24g per serving) and No added Sugar. It helps to boost metabolism, builds essential muscles and is effective for weight loss.",
+        "price": "1,124",
+        "offerPrice": "960",
+        "rating": 4.3,
+        "stockQty": "1,000"
+    },
+    {
+        "productId": 4,
+        "productName": "Steadfast Nutrition MCT Oil for Weight Loss | Keto diet | Supports weight management, regulates metabolism, C8 & C10 MCT Oil for Maximum Impact | For Men & Women | 60 Capsules | Lab- Tested",
+        "image": "https://m.media-amazon.com/images/I/61uXnc-M78L._SX679_.jpg",
+        "description":"Pure & Potent: Steadfast MCT Oil is derived from premium coconut oil. It contains C8 & C10 fatty acids for maximum potency to help you reach your weight.",
+        "price": "1,469",
+        "offerPrice": "1,200",
+        "rating": 4.2,
+        "stockQty": "500"
+    },
+    {
+        "productId": 5,
+        "productName": "Greeniche Weight Management Garcinia Cambogia with Green Coffee Bean Extract - 90 Capsules (Buy 1 Get 1 Free)",
+        "image": "https://m.media-amazon.com/images/I/81gEZV2-s8S._SX679_PIbundle-2,TopRight,0,0_AA679SH20_.jpg",
+        "description":"TRIPLE EFFECT FOR WEIGHT LOSS– Greeniche Weight Management Premium Natural Weight Loss Capsules with Triple Effect Enhanced Formula for MEN and WOMEN help to Curb Appetite.",
+        "price": "749",
+        "offerPrice": "",
+        "rating": 4.4,
+        "stockQty": "300"
+    },
+    {
+        "productId": 6,
+        "productName": "INLIFE Pure MCT Oil C8 C10 Keto Diet Friendly Advanced Products, Weight & Fat Management Food Supplement, 500mg - 60 Vegetarian Capsules (Pack of 1) (Pack of 1, 60)",
+        "image": "https://m.media-amazon.com/images/I/71dhk6wDPRL._SX679_.jpg",
+        "description":"PURE MCT OIL: Our pure C8 C10 MCT oil capsules are widely used for weight management. These capsules are the purest and most potent MCT oil capsules.",
+        "price": "669",
+        "offerPrice": "479",
+        "rating": 3.8,
+        "stockQty": "660"
+    },
+    {
+        "productId": 7,
+        "productName": "TEACURRY Slimming Tea For Weight Loss - 30 Tea Bags, 1 Month Pack | Free Diet Chart | Lose Weight, Reduce Tummy, Prevent Ageing | Weight Loss Green Tea, 60 Grams",
+        "image": "https://m.media-amazon.com/images/I/518vFWR3+oL._SY300_SX300_.jpg",
+        "description":"Best Slimming Tea - Teacurry Slimming Tea is a fortified Green Tea for weight management. It is a 100% natural tea for tummy and enhanced metabolic rate. It helps reduce cravings for sugar, removes extra fat and improves digestion. Teacurry slimming tea for weight loss also prevents ageing signs and detoxifies the liver. Having a pleasant smooth taste, Teacurry's effective slimming tea helps with releasing excess water weight, boosts metabolism and purifies the body of toxins and waste.",
+        "price": "799",
+        "offerPrice": "588",
+        "rating": 4.1,
+        "stockQty": "430"
+    },
+    {
+        "productId": 8,
+        "productName": "One Product Weight Loss Diet",
+        "image": "https://m.media-amazon.com/images/I/71CGM6bNc2L._SY466_.jpg",
+        "description":"The one product diet is a simple way of eating basic enough for everyone to understand while powerful enough to hugely transform our lives. It is an uncomplicated guide to unprocessed food where you plan to eat plant-based foods that should start out as one whole ingredient.",
+        "price": "1,749",
+        "offerPrice": "999",
+        "rating": 4.0,
+        "stockQty": "200"
+    },
+    {
+        "productId": 9,
+        "productName": "Mypro Sport Nutrition Slim Shake Protein Powder-Meal Replacement Shake For Weight Control & Management-Sugar Free,(11 g Protien 113.60 kcal calories) (Chocolate, 500 g (Pack of 1))",
+        "image": "https://m.media-amazon.com/images/I/71rQWRsZNiL._SY879_.jpg",
+        "description":"CURBS HUNGER – Mypro Nutrition Slim Shake Meal Replacement Powder is an exceptional meal replacement product that curbs hunger for up to four hours.",
+        "price": "999",
+        "offerPrice": "666",
+        "rating": 4.8,
+        "stockQty": "900"
+    },
+    {
+        "productId": 10,
+        "productName": "Herbalife Formula 1 Shake 500 g Weight Loss - Mango + Protein Powder 200 g",
+        "image": "https://m.media-amazon.com/images/I/81v+nAhmruL._SX679_.jpg",
+        "description":"Lose weight: 2 shakes + 1 normal meal, Gain weight: 3 shakes + 3 normal meals, Maintain weight: 1 shake + 2 normal meals, Low in calories only 220 calories per serving when mixed with 250ml skim milk.",
+        "price": "2,699",
+        "offerPrice": "2,088",
+        "rating": 4.4,
+        "stockQty": "1,200"
+    },
+    {
+        "productId": 11,
+        "productName": "Nestlé Optifast Weight Management Shake|Chocolate Flavour|Low Gi Formula|Scientifically Designed Weight Loss Diet|Meal Replacement Shake For Weight Loss|400G Jar",
+        "image": "https://m.media-amazon.com/images/I/61XyQJVAtnL._SX679_.jpg",
+        "description":"WEIGHT MANAGEMENT: Add Nestle Optifast Weight Management Shake to your weight loss journey and get a step closer to a fitter you.",
+        "price": "1,899",
+        "offerPrice": "1,349",
+        "rating": 4.5,
+        "stockQty": "1,199"
+    },
+    {
+        "productId": 12,
+        "productName": "SABATES | Weight Loss Herbal Tablet Reduce Extra Fat Without Diet & Exercise",
+        "image": "https://m.media-amazon.com/images/I/61mhcFwLqmL._SX679_.jpg",
+        "description":"Take two capsule in a day with lukewarm milk or water after meal one in evening and one in morning, The capsule does not have any side effects and any food diet control is not required.",
+        "price": "249",
+        "offerPrice": "199",
+        "rating": 4.1,
+        "stockQty": "3,099"
+    },
+    {
+        "productId": 13,
+        "productName": "INLIFE Pure MCT Oil C8 C10 Keto Diet Friendly Advanced Products, Weight & Fat Management Food Supplement, 500mg - 60 Vegetarian Capsules (Pack of 1) (Pack of 1, 60)",
+        "image": "https://m.media-amazon.com/images/I/71dhk6wDPRL._SX679_.jpg",
+        "description":"PURE MCT OIL: Our pure C8 C10 MCT oil capsules are widely used for weight management. These capsules are the purest and most potent MCT oil capsules.",
+        "price": "699",
+        "offerPrice": "479",
+        "rating": 4.2,
+        "stockQty": "888"
+    },
+    {
+        "productId": 14,
+        "productName": "HERBAGENIX Fat Burner For Women, Green Tea, L-Carnitine, Green Coffee, Garcinia Cambogia Tablets & Keto Slim Products As Metabolism Booster For Weight Loss Fat Burners Supplement-120 Tablet(Pack1)",
+        "image": "https://m.media-amazon.com/images/I/51fLuwC7F3L._SX300_SY300_QL70_FMwebp_.jpg",
+        "description":"PROMOTES WEIGHT LOSS: Utilizing a metabolic state called ketosis, Keto Fat Loss supplement support in the natural burning of fat by prompting your body to use fatty acids as its primary source of fuel instead of sugar or glucose.This powerful blend not only suppresses cravings and prevents carb absorption but also acts as a clinically proven and all-natural fat burner for women.",
+        "price": "1,899",
+        "offerPrice": "1,499",
+        "rating": 4.7,
+        "stockQty": "198"
+    },
+    {
+        "productId": 15,
+        "productName": "Organic Tattva, Organic Instant Ready Mix Multigrain Dosa, 200 Gram | Rich Source of Iron and Calcium | Healthy Breakfast, Protein Rich, Gluten Free, Diet Foods, Weight Loss | Ready in 3 Easy Steps",
+        "image": "https://m.media-amazon.com/images/I/81vq8-47MlL._SX679_.jpg",
+        "description":"✔ Certified Organic | ✔ NON GMO | ✔Gluten Free | ✔ NO Preservatives. ✔ Made with Organic Jowar, Coran Flour, Little Millet and Organic Black Gram Dal.",
+        "price": "149",
+        "offerPrice": "89",
+        "rating": 4.4,
+        "stockQty": "2,399"
+    },
+    {
+        "productId": 16,
+        "productName": "True Elements Chia Seeds 150g - Seeds for Weight Loss | Healthy Raw Seeds for Eating | Fibre Rich Diet Food",
+        "image": "https://m.media-amazon.com/images/I/41IKnv6sd4L._SX300_SY300_QL70_FMwebp_.jpg",
+        "description":"RICH IN OMEGA 3: Omega Fats are the healthy fats that your body requires for reducing the cholesterol levels and protecting the heart health.",
+        "price": "199",
+        "offerPrice": "159",
+        "rating": 4.6,
+        "stockQty": "2,200"
+    },
+    {
+        "productId": 17,
+        "productName": "Keeros Multigrain Roasted & Healthy Snacks for Weight Loss | Diabetic Friendly, Diet Namkeen & Snacks | Low GI, Ready to Eat, Crispy, Tasty & Lightly Salted Mix of Pearl Millets & 5 supergrains |400g",
+        "image": "https://m.media-amazon.com/images/I/81xuKsEeK0L._SX679_.jpg",
+        "description":"NABL LAB CERTIFIED, DIABETIC FRIENDLY DIET SNACKS FOR WEIGHT LOSS : Keeros Multigrain is Low GI Sugar free snack backed by NABL Lab Reports that are Healthy for all & Diabetic friendly too.",
+        "price": "339",
+        "offerPrice": "295",
+        "rating": 4.6,
+        "stockQty": "200"
+    },
+    {
+        "productId": 18,
+        "productName": "Eleone Wellness diet Meal Replacement Shake With 6 Ayurvedic Herbal Blend for Healthy Weight Loss|USA Born and Bred|Helps in Weight Loss & Management | For Men and Women|Chocolate, 500g | Pack of 1",
+        "image": "https://m.media-amazon.com/images/I/41PhJLes60L._SX300_SY300_QL70_FMwebp_.jpg",
+        "description":"WEIGHT LOSS: An ideal drink for individuals wanting to lose weight in shorter duration. diet meal replacement shake helps you lose upto 4kgs in 2 months. Start weight loss journey and get a step closer to a fitter you.",
+        "price": "2,249",
+        "offerPrice": "999",
+        "rating": 4.0,
+        "stockQty": "202"
+    },
+    {
+        "productId": 19,
+        "productName": "ODDISH; way to fitness Oddish Anti Skid Double Wheel Total Body AB Roller Exerciser for Abdominal Stomach Exercise Training with Knee Mat Steel Handle Unisex for Men and women (PREMIUM-GREEN)",
+        "image": "https://m.media-amazon.com/images/I/713i6zjFOdL._SX679_.jpg",
+        "description":"Effective Total Body Workout: The ODDISH AB Roller enables you to engage multiple muscle groups, including your abs, arms, shoulders, and back, for a comprehensive total body workout.",
+        "price": "599",
+        "offerPrice": "399",
+        "rating": 4.0,
+        "stockQty": "900"
+    },
+    {
+        "productId": 20,
+        "productName": "Let's Play® Premium Indoor Upright Exercise Cycle for Home with Matt Black Frame Handlebar NBR Aluminum Pedals with Pulse Sensor & Mobile Holder Ergonomic Seat for Home, Spin Bike, Fitness Bike, Exercise Bike, Gym Cycle for Home Use With 12 kg Flywheel (Free Online Installation, Diet Plan, Trainer, 1 Year Manufacturer's Warranty)",
+        "image": "https://m.media-amazon.com/images/I/51rlF+QB5qL._SX679_.jpg",
+        "description":"Premium Bike with Magnetic Break System 12Kg Flywheel and Heavy-Duty Steel Frame of the exercise bike guarantee the stability while cycling. It has Friction Brake System with Speed Ratio 9.2:1. The belt driven system provides a smoother and quieter ride than chain transport. It won't create any disturbance for your family members due to its noiseless experience.",
+        "price": "45,999",
+        "offerPrice": "21,865",
+        "rating": 4.0,
+        "stockQty": "100"
+    },
+    {
+        "productId": 21,
+        "productName": "Jukusa Assistive Abdominal Chest and arm Muscles Exercise Adjustable Assistant Fitness Equipment Suction Cup Home Workout Healthy Abdomen Press Leg Support & Equipment for Lose Weight (Black)",
+        "image": "https://m.media-amazon.com/images/I/41HcBb+jz5L.jpg",
+        "description":"PERFECT HOME FITNESS DEVICE: High Density Fitness Foam Kneepad is included for comfort workout at home. Strengthens and Tones your entire body by hitting your Abs, Core, Torso, Shoulders, Arms, Upper Back & Lower Back.",
+        "price": "999",
+        "offerPrice": "448",
+        "rating": 3.9,
+        "stockQty": "100"
+    },
+    {
+        "productId": 22,
+        "productName": "Virtual World Unisex Sweat Waist Fat Burner Body Slimming Belt (Black)",
+        "image": "https://m.media-amazon.com/images/I/6134sX-emzL._SX679_.jpg",
+        "description":"The scientific design and compression help you correct posture, flatten abdomen, firm tummy and love handles leading to a more molded figure and visually trim weight. It is perfect for exercise, to be used day to day, or for any physical activity. Its unique fibers and material produce higher compression in the abdomen and waist resulting in more sweating.",
+        "price": "699",
+        "offerPrice": "231",
+        "rating": 3.8,
+        "stockQty": "160"
+    },
+    {
+        "productId": 23,
+        "productName": "ESPERANCE Sweat Slimming Belt for Men and Women (Free Size) Black Color",
+        "image": "https://m.media-amazon.com/images/I/71vAkWmzNNL._SX679_.jpg",
+        "description":"Material: Lycra-Spandex, Colour : Black, Helps in reducing weight by preserving body heat and stimulating more sweat during exercise and routine work. Comfortable, light-weight; maximizes fitness routine; perfect for exercise.",
+        "price": "499",
+        "offerPrice": "299",
+        "rating": 3.8,
+        "stockQty": "198"
+    },
+    {
+        "productId": 24,
+        "productName": "COIF Body Shapewear & Tummy Shaper Belt for Women & Men Used for Postpartum Recovery, Weight Loss, Muscle Toning, Fitness Exercise, Workout, Back Support, Gym, Yoga (Sky Blue)",
+        "image": "https://m.media-amazon.com/images/I/51Awd2MRfpL._SX679_.jpg",
+        "description":"Soft Comfortable Waist Trainer Belt It will snatch your waist freely, and you can adjust the tightness as you want. It is non-slip and smoothing staying in place no matter what you do.",
+        "price": "599",
+        "offerPrice": "460",
+        "rating": 4.2,
+        "stockQty": "201"
+    }
+    
+]
