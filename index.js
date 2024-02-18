@@ -10,7 +10,7 @@ const billRoute = require("../backend/routes/billRoute");
 const homeRoute = require("../backend/routes/homeRoute");
 
 const app = express();
-const PORT = process.env.PORT || PORT;
+const PORT = process.env.PORT || 3000;
 
 app.use(express.json());
 app.use(cors());
