@@ -1,11 +1,12 @@
-[{
-        "firstName": "Siva",
-        "lastName": "kumar",
-        "email": "sivakumar@gmail.com",
-        "password":"siva@123",
-        "mobile": 9080706050,
-        "address": "2, lal salar street, New Delhi-100 101",
-        "dietFor": "Reduce body weight"
+[
+{
+    "firstName": "Siva",
+    "lastName": "kumar",
+    "email": "sivakumar@gmail.com",
+    "password":"siva@123",
+    "mobile": 9080706050,
+    "address": "2, lal salar street, New Delhi-100 101",
+    "dietFor": "Reduce body weight"
 },
 {
     "firstName": "Astro",

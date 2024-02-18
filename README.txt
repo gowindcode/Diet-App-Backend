@@ -1,3 +1,14 @@
+Dear FSD Ream,
+Please note for end point listed below for your kind refernce. And this project we send/get details mainly for products, login details. 
+Please use post man and nodejs packages to run this file in localhost.
+In this file we have used express, dotenv, nodeman, cors, mongoose.
+
+Using postman we can add a new product, edit product, delete product.
+As well create a user or user can signup from via browser(front end we connected this, so user details stored in our mongoose data base)
+And login user can input email and password, so that server take this request and check with backend data, if data matched, send login successfull message.
+Plase note we have not locked pages. 
+Can create a bill, edit bill, get all bills details and user details, login details.
+
 add a product
 http://localhost:3000/add-product
 
@@ -25,7 +36,7 @@ http://localhost:3000/signup
 user login
 http://localhost:3000/login
 
-
 get all customers
 http://localhost:3000/all-customers
 
+Kindly check the end points, and thank you for reading this meassge and viewing these files.
