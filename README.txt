@@ -39,4 +39,11 @@ http://localhost:3000/login
 get all customers
 http://localhost:3000/all-customers
 
+
+backend git repository code : 
+https://github.com/gowindcode/diet-app-backend.git
+
+backend render deployed url:
+https://diet-app-backend.onrender.com/
+
 Kindly check the end points, and thank you for reading this meassge and viewing these files.
