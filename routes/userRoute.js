@@ -48,7 +48,8 @@ router.post("/login", async (req, res) => {
     } else {
       const user = new UserModel({ ...req.body, verified: true });
       await user.save();
-      res.status(200).json({ message: "Login successful" });
+      res.status(200).json({ message: "Login successful", user });
+      // console.log("Login user details.", user);
     }
 
     // If user exists and password is correct, return a success message "Login successful"
