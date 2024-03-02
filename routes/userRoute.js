@@ -15,13 +15,13 @@ router.post("/signup", async (req, res) => {
     if (existingUser) {
       console.log("Email already used:", req.body.email);
       console.log("Mobile Number already used:", req.body.mobile);
-      res.send({ message: "User already exists." });
+      res.status(400).send({ message: "User already exists." });
     } else {
       const newUser = new RegisterModel({ ...req.body, verified: true });
       console.log("Login request received, please wait we are validating...");
       await newUser.save();
       console.log("Signup successful.");
-      res.send({ message: "Signup successful.", newUser });
+      res.status(200).send({ message: "Signup successful.", newUser });
     }
   } catch (error) {
     console.error("Signup failed:", error);
